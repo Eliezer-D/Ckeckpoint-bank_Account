@@ -41,8 +41,5 @@ print(f"My Account Balance: {balance}")
 print(f"Account2 Balance: {balance2}")
 
 
-# In[ ]:
-
-
 
 
